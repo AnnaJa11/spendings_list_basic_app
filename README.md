@@ -13,3 +13,19 @@ Werkzeug 3.0.1
 WTForms 3.1.2
 HTML5
 CSS3
+
+Downloads:
+  To download Python 3.11.1 :
+    1. go to https://www.python.org
+    2. hover over downloads button and click on View the full list of downloads
+    3. scroll down a bit and click on the version you want (3.11.1)
+    4. then scroll to the bottom (the files section)
+    5. if you are a 64-bit user then click on Windows x86-64 executable installer
+    6. if you are a 32-bit user then click on Windows x86 executable installer
+    7. after downloading it, you can install it.
+
+  Flask 3.0.0, Flask-WTF 1.2.1, Jinja2 3.1.2, Werkzeug 3.0.1, WTForms 3.1.2 instalation:
+    Type “ pip install -r requirements.txt ” (without quotes) in the command line and hit Enter again. This installs flask and the rest packages for your default Python installation.
+
+
+  
