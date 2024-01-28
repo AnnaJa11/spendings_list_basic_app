@@ -24,7 +24,7 @@ Downloads:
     6. if you are a 32-bit user then click on Windows x86 executable installer
     7. after downloading it, you can install it.
 
-  Flask 3.0.0, Flask-WTF 1.2.1, Jinja2 3.1.2, Werkzeug 3.0.1, WTForms 3.1.2 instalation:
+  Flask 3.0.0, Flask-WTF 1.2.1, Jinja2 3.1.2, Werkzeug 3.0.1, WTForms 3.1.2  -  instalation:
     Type “ pip install -r requirements.txt ” (without quotes) in the command line and hit Enter again. This installs flask and the rest packages for your default Python installation.
 
 
